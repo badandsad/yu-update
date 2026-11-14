@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.9.0",
-  "url": "https://cdn.jsdelivr.net/gh/badandsad/yu-update@main/yu-0.9.0.apk",
-  "note": "第一版：知识点详情整页化、科目可选、符号面板、方法论库。"
+  "versionCode": 2,
+  "versionName": "0.10.0",
+  "url": "https://cdn.jsdelivr.net/gh/badandsad/yu-update@main/yu-0.10.0.apk",
+  "note": "1. AI 接口：9 个平台一键填好，Key 框下面直接给这家的控制台入口，内置各家便宜好用的模型，点一下就填上\n2. 新增「测试连通」：填完当场发一条最小请求，地址、Key、模型名哪样不对都直接说清\n3. 记错题可切换简洁版：只留科目 + 一个输入框，一句「我这题错在哪」就能问\n4. 符号键盘重做：顶部九科 + 常用词，下面数字页 / 26 字母页，左下角切换；点学科弹符号，插完自动回键盘；新增地理符号\n5. 设置页换成「反馈问题 / 提建议」，复制或发邮件都行"
 }
